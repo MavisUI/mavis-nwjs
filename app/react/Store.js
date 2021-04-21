@@ -43,7 +43,7 @@ export default class Store {
         userName: null,
         userRole: null,
         bridges: [],
-        activeBridge: "rheinknie",
+        activeBridge: "oberkassel",
         activeCable: "all",
         activePosition: 0.0,
     };
